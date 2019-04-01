@@ -1,5 +1,6 @@
 # credit-cards-utils 
 Utilities to manage credit card information such as numbers validation, masking, etc.
+For more details take a look at  [PayU Latam Repository.](https://www.payulatam.com/co/).
  
 ## Installation
 
